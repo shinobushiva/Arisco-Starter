@@ -4,3 +4,12 @@
 [submodule "Assets/Shared/Arisco-Utils"]
 	path = Assets/Shared/Arisco-Utils
 	url = https://github.com/shinobushiva/Arisco-Utils
+[submodule "Assets/Shared/Arisco-Samples"]
+	path = Assets/Shared/Arisco-Samples
+	url = https://github.com/shinobushiva/Arisco-Samples
+[submodule "Assets/Shared/Unity-Utils"]
+	path = Assets/Shared/Unity-Utils
+	url = https://github.com/shinobushiva/Unity-Utils
+[submodule "Assets/Shared/Unity-CameraSwitcher"]
+	path = Assets/Shared/Unity-CameraSwitcher
+	url = https://github.com/shinobushiva/Unity-CameraSwitcher
