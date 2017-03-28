@@ -1,0 +1,6 @@
+[submodule "Assets/Shared/Arisco-Core"]
+	path = Assets/Shared/Arisco-Core
+	url = https://github.com/shinobushiva/Arisco-Core
+[submodule "Assets/Shared/Arisco-Utils"]
+	path = Assets/Shared/Arisco-Utils
+	url = https://github.com/shinobushiva/Arisco-Utils
